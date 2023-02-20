@@ -1,3 +1,2 @@
- calculator-Html,Css,Vanilla JS
-calculator evaluating using the Eval function 
+simple calculator-HTML,CSS,Vanilla Js
 deployed link: https://calculatorjs5801.netlify.app/
